@@ -7,3 +7,9 @@
 #
 # Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
+[submodule "Vagrant: A tool for building and distributing development environments."]
+	path = Vagrant: A tool for building and distributing development environments.
+	url = https://github.com/hashicorp/vagrant.git
+	ignore = dirty
+	fetchRecurseSubmodules = false
+	shallow = true
